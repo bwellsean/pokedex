@@ -9,5 +9,5 @@
         "forceConsistentCasingInFileNames": true,
         "lib": ["ES2015", "DOM"]
     },
-    "include": ["public/src"]
+    "include": ["public/src/**/*"]
 }
